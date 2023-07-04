@@ -1,0 +1,58 @@
+[
+    {
+      "name": "Kevin Garcés",
+      "email": "kgarces@gmail.com",
+      "password": "123456",
+      "role": "client",
+      "status": "available"
+    },
+    {
+      "name": "Dayana Alfonso",
+      "email": "dalfonso@gmail.com",
+      "password": "contraseña",
+      "role": "client",
+      "status": "available"
+    },
+    {
+      "name": "Santiago Ramirez",
+      "email": "sramirez@gmail.com",
+      "password": "hola123",
+      "role": "employee",
+      "status": "available"
+    },
+    {
+      "name": "Jorge Pinto",
+      "email": "j.pinto@gmail.com",
+      "password": "00pp99oo88ii",
+      "role": "client",
+      "status": "available"
+    },
+    {
+      "name": "Diego Rincón",
+      "email": "d.rincon@gmail.com",
+      "password": "11qq22ww33ee",
+      "role": "client",
+      "status": "available"
+    },
+  
+  {
+    "userId": 1,
+    "date": "2023-06-10"
+  },
+  {
+    "userId": 2,
+    "date": "2023-06-11"
+  },
+  {
+    "userId": 3,
+    "date": "2023-06-12"
+  },
+  {
+    "userId": 4,
+    "date": "2023-06-13"
+  },
+  {
+    "userId": 5,
+    "date": "2023-06-14"
+  }
+] 
